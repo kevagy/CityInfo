@@ -1,6 +1,6 @@
 
 {
-  "markers": [
+  "features": [
     { "FID_": 1, "lat": 43.69998, "lng": -79.420021, "Coordinate": "43.69998,-79.420021", "Coordina_1": "-79.420021,43.69998", "City": "Toronto", "Country": "Canada", "Citypop": 2988408, "Urbanpop": 7650000, "District": "Ontario", "RegProvSta": "Province", "Region": null, "Areaincl": "incl. Hamilton, Mississauga", "Urbanname": "Toronto", "Namecity": "Toronto" , "coordin": " [ -79.42002, 43.69998 ]"},
     { "FID_": 2, "lat": 40.749979, "lng": -73.980017, "Coordinate": "40.749979,-73.980017", "Coordina_1": "-73.980017,40.749979", "City": "New York", "Country": "United States", "Citypop": 8175031, "Urbanpop": 21800000, "District": "New York", "RegProvSta": "State", "Region": "Northeast", "Areaincl": "incl. Bridgeport, Newark, New Haven", "Urbanname": "New York", "Namecity": "New York" , "coordin": " [ -73.98002, 40.74998 ]"},
     { "FID_": 3, "lat": 19.442442, "lng": -99.130988, "Coordinate": "19.442442,-99.130988", "Coordina_1": "-99.130988,19.442442", "City": "Ciudad de México", "Country": "Mexico", "Citypop": 8843706, "Urbanpop": 24500000, "District": "Mexico City (Capital)", "RegProvSta": "State", "Region": null, "Areaincl": "incl. Nezahualcóyotl, Ecatepec, Naucalpan", "Urbanname": "Mexico City", "Namecity": "Mexico City" , "coordin": " [ -99.13099, 19.44244 ]"},
